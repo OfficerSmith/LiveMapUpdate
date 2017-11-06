@@ -1,6 +1,8 @@
 Changelog
 =========
-
+v2.2.2 (06-11-2017)
+-------------------
+- Added Postal Codes around the map. [James S (OfficerSmith)]
 
 v2.2.1 (02-11-2017)
 -------------------
